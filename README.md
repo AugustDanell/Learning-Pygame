@@ -3,6 +3,12 @@ This folder contains games that I am either currently working on or that I am do
 
 All the games that I am done with I aim to present a short demo with on Youtube, and for every such demo there will also be a link back to this Git Hub code. As such it is a structure like that of a double linked list, or something of the sort, where one can access the demo from git, but one can also access git from the youtube demo. Here follows a list of the games written so far:
 
+# Youtube List:
+- Flappy Nacka Bird (A flappy bird clone in the folder 'plattformer'): https://www.youtube.com/watch?v=By74-nJH9Oc
+- Cossacks (A space invaders clone in the folder 'gameProgramming'): https://www.youtube.com/watch?v=mYdml315rlk 
+
+
+# Information:
 - Belgrade 1456 (Still in progress): An action game where the player is playing as one of the defenders of the city of Belgrade in the historic battle that took place there in 1456. The player plays as a knight, being able to use both sword and pistol, traversing down the different levels. Currently I am working on implementing a way of saving and loading games. Like with much of my other games the animations are not very good but it is more so to learn the coding progress of writing games I am doing this. 
 
 - Bridge Guarder: A game that I made within an hour, it is sloppy made and abandoned because the gameplay is not fun at all. The game is based on a situation where there were cows let loose and they walked over a bridge crossing. The game is about saving as many cows and boats as possible, when the bridge is folded upwards the boats can go under and when its folded downwards the cows can cross. 
