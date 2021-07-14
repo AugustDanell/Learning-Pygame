@@ -1,3 +1,9 @@
+Finished Games:
+- Squirrels of Ektorp
+- Flappy Nacka Bird (gameProgramming folder)
+- Cossacks (plattformer folder)
+- RaceCars
+
 # Python-Games
 This folder contains games that I am either currently working on or that I am done with. Most of the games are written in Python using the library Pygame, as the name of the repo suggests. However, some games might also be in other languages, or using other libraries and frameworks than that of Pygame. Overall I 
 
